@@ -29,7 +29,7 @@
 
 <p align="left">
 
-<a href="https://fb.com/mayurin jung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurin jung" height="30" width="40" /></a>
+<a href="https://fb.com/mayurin.jung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayurin jung" height="30" width="40" /></a>
 
 <a href="https://instagram.com/_babies._.jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babiesjays" height="30" width="40" /></a>
 
