@@ -1,60 +1,97 @@
-# Hi there, I'm Mayurin Jung 👋
+# 👋 ฉันคือ MAYURIN PETCHPHOL
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Administrative+Coordinator;Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer" alt="Typing SVG" />
 </p>
 
-I’m a developer and IT administrative coordinator from Thailand, with a strong interest in software development, ERP systems, automation, cloud platforms, and AI agent development.
+> Money Money Money
 
-## About Me
+<div align="center">
 
-- 🌱 I’m currently learning: AWS, Microsoft Azure, and advanced AI agent development
-- 💬 Ask me about: Software development, ERP, and automation tools
-- 📫 Reach me at: mayurin.jung21@gmail.com
-- ⚡ Fun fact: I code by day and create AI Yaoi comics by night
+📍 Thepharak, Samutprakarn  
+📞 +66946278508  
+📧 mayurin.jung21@gmail.com  
+🎯 Requirement: Pursue a master's degree, Need money
 
-## Connect with Me
+</div>
 
-<p align="left">
-  <a href="https://fb.com/mayurin.jung" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/_babies._.jay" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/JungEiEi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+---
 
-## Tech Stack
+## 👨‍💻 SUMMARY
+Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications, including banquet booking systems, document management workflows, reporting, and notification features. Skilled in troubleshooting, business process analysis, and developing practical solutions to improve operational efficiency. Eager to learn new technologies and grow as a Software Developer.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
+---
 
-## GitHub Stats
+## 🚀 PROJECTS & TECHNICAL EXPERIENCE
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jungeiei&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-</p>
+### 💼 IT General Clerk & Admin Helpdesk, Asia Hospital Bangkok
+*📅 April 2025 – Present*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungeiei&layout=compact&theme=radical" alt="Top languages" />
-</p>
+1. **Banquet Room Booking System**
+   - Developed a web-based banquet booking system using PHP, SQL Server, and XAMPP.
+   - Implemented booking calendars, customer management, quotation generation, and event order documentation.
+   - Designed notification, booking approval, and customer feedback features.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jungeiei&theme=radical" alt="GitHub streak" />
-</p>
+2. **Banquet Feedback & QR Code System**
+   - Developed a QR code-based feedback system for banquet guests and event organizers.
+   - Integrated survey data with booking IDs, room details, and event dates.
+   - Built a QR code and poster generation application using C# Windows Forms.
+
+3. **Tennis Court Booking System**
+   - Developed a web application for managing and displaying tennis court reservations.
+   - Used React, Node.js, Express.js, and MongoDB.
+   - Implemented a booking calendar and reservation status display.
+
+4. **RFID Linen Tracking System**
+   - Developed a prototype linen tracking application using RFID technology and C# Windows Forms.
+   - Designed RFID tag management and linen inventory tracking workflows.
+   - Integrated MongoDB for storing and managing RFID and inventory data.
+
+5. **Odoo ERP Customization**
+   - Worked with Odoo ERP to explore and customize business workflows.
+   - Developed a custom module for adding signature functionality to quotations.
+   - Gained experience with CRM workflows and business data management.
+
+---
+
+### 🌐 Freelance, PRISM MATRIX
+*📅 September 2026 – Present*
+
+- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and content delivery.
+
+---
+
+## 🎓 EDUCATION
+
+- **Computer and Technology Engineering, RBAC**  
+  *📅 March 2025*
+
+---
+
+## 🛠️ TECHNICAL SKILLS
+
+- **Programming:** PHP, JavaScript, C#
+- **Web Development:** HTML, CSS, React
+- **Database:** SQL Server, MySQL, MongoDB
+- **Frameworks & Tools:** Node.js, Express.js, Odoo ERP, XAMPP, Git
+- **IT Operations:** IT Support, System Administration, Network Troubleshooting
+- **Other Skills:** Business Process Analysis, System Development, Problem-Solving
+
+---
+
+## ✨ PERSONAL HIGHLIGHTS
+- 🔥 Interested in building practical systems that solve real business problems.
+- 📈 Passionate about continuous learning and growth in software engineering.
+- 🧩 Enjoy working across IT support, backend logic, and user-focused applications.
+- 💡 Goal: grow into a professional software developer while pursuing further education.
+
+---
+
+## 📫 CONTACT
+If you want to connect, collaborate, or ask about projects, feel free to reach out:
+
+- Email: mayurin.jung21@gmail.com
+- Phone: +66946278508
 
 ---
 
