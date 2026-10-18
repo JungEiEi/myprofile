@@ -1,10 +1,32 @@
 # 👋 ฉันคือ MAYURIN PETCHPHOL
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 > Money Money Money
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/JungEiEi?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/JungEiEi/myprofile?style=flat&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/license/JungEiEi/myprofile" alt="License" />
+</p>
+
+<div align="center">
+
+## 📊 Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JungEiEi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungEiEi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JungEiEi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JungEiEi.myprofile" alt="Visitors" />
+</p>
+
+</div>
 
 <div align="center">
 
@@ -18,7 +40,7 @@
 ---
 
 ## 👨‍💻 SUMMARY
-Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications, including banquet booking systems, document management workflows, reporting, and notification features. Skilled in troubleshooting, business process analysis, and developing practical solutions to improve operational efficiency. Eager to learn new technologies and grow as a Software Developer.
+Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications, booking systems, admin tools, and operational workflows that improve productivity and customer experience.
 
 ---
 
@@ -57,7 +79,7 @@ Computer Engineering graduate with experience in IT Support, IT Administration, 
 ### 🌐 Freelance, PRISM MATRIX
 *📅 September 2026 – Present*
 
-- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and content delivery.
+- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and content updates.
 
 ---
 
