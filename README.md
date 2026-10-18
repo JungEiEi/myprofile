@@ -1,7 +1,7 @@
 # 👋 ฉันคือ MAYURIN PETCHPHOL
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engi[...]" />
 </p>
 
 > Money Money Money
@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/github/followers/JungEiEi?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/JungEiEi/myprofile?style=flat&label=Stars" alt="Stars" />
   <img src="https://img.shields.io/github/license/JungEiEi/myprofile" alt="License" />
+  <a href="https://github.com/JungEiEi" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-JungEiEi-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <div align="center">
@@ -44,7 +47,7 @@
 ---
 
 ## 👨‍💻 SUMMARY
-Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications
+Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applicatio[...]
 
 ---
 
@@ -90,7 +93,7 @@ Computer Engineering graduate with experience in IT Support, IT Administration, 
 ### 🌐 Freelance, PRISM MATRIX
 *📅 September 2026 – Present*
 
-- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and content [...]
+- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and cont[...]
 
 ---
 
@@ -127,6 +130,7 @@ If you want to connect, collaborate, or ask about projects, feel free to reach o
 - Phone: +66946278508
 - Line: babayjay1234
 - WhatsApp: babayjay1234
+- GitHub: https://github.com/JungEiEi
 
 ---
 
