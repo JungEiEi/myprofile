@@ -44,7 +44,7 @@
 ---
 
 ## 👨‍💻 SUMMARY
-Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications, [...]
+Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications
 
 ---
 
