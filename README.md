@@ -1,7 +1,7 @@
 # 👋 ฉันคือ MAYURIN PETCHPHOL
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer" alt="Typing animation" />
 </p>
 
 > Money Money Money
@@ -33,6 +33,10 @@
 📍 Thepharak, Samutprakarn  
 📞 +66946278508  
 📧 mayurin.jung21@gmail.com  
+
+[![Line](https://img.shields.io/badge/Line-babayjay1234-00C300?style=flat&logo=LINE&logoColor=white)](https://line.me/R/ti/p/~babayjay1234)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-babayjay1234-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/66946278508)
+
 🎯 Requirement: Pursue a master's degree, Need money
 
 </div>
@@ -40,11 +44,18 @@
 ---
 
 ## 👨‍💻 SUMMARY
-Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications, booking systems, admin tools, and operational workflows that improve productivity and customer experience.
+Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applications, [...]
 
 ---
 
 ## 🚀 PROJECTS & TECHNICAL EXPERIENCE
+
+### 🏬 Customer Service Staff, Lotus's
+*📅 2019 – 2021*
+
+- Handled public relations and customer inquiries.
+- Coordinated with tenants and managed communications within the retail space.
+- Worked as a cashier and supported daily store operations.
 
 ### 💼 IT General Clerk & Admin Helpdesk, Asia Hospital Bangkok
 *📅 April 2025 – Present*
@@ -79,7 +90,7 @@ Computer Engineering graduate with experience in IT Support, IT Administration, 
 ### 🌐 Freelance, PRISM MATRIX
 *📅 September 2026 – Present*
 
-- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and content updates.
+- Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and content [...]
 
 ---
 
@@ -114,6 +125,8 @@ If you want to connect, collaborate, or ask about projects, feel free to reach o
 
 - Email: mayurin.jung21@gmail.com
 - Phone: +66946278508
+- Line: babayjay1234
+- WhatsApp: babayjay1234
 
 ---
 
