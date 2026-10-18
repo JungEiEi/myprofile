@@ -49,18 +49,11 @@
 ---
 
 ## 👨‍💻 SUMMARY
-Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applicatio[...]
+Computer Engineering graduate with experience in IT Support, IT Administration, and Web Application Development using PHP, JavaScript, and SQL Server. Experienced in developing business applicatio
 
 ---
 
 ## 🚀 PROJECTS & TECHNICAL EXPERIENCE
-
-### 🏬 Customer Service Staff, Lotus's
-*📅 2019 – 2021*
-
-- Handled public relations and customer inquiries.
-- Coordinated with tenants and managed communications within the retail space.
-- Worked as a cashier and supported daily store operations.
 
 ### 💼 IT General Clerk & Admin Helpdesk, Asia Hospital Bangkok
 *📅 April 2025 – Present*
@@ -97,6 +90,13 @@ Computer Engineering graduate with experience in IT Support, IT Administration, 
 - Developed and launched a personal portfolio and blog website using modern frontend tools and Cloudflare Pages, implementing automated CI/CD pipelines via GitHub to streamline publishing and cont[...]
 
 ---
+
+### 🏬 Customer Service Staff, Lotus's
+*📅 2019 – 2021*
+
+- Handled public relations and customer inquiries.
+- Coordinated with tenants and managed communications within the retail space.
+- Worked as a cashier and supported daily store operations.
 
 ## 🎓 EDUCATION
 
