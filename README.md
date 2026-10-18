@@ -1,17 +1,17 @@
 # 👋 ฉันคือ MAYURIN PETCHPHOL
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engi[...]" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=84A282&center=true&vCenter=true&lines=Full-Stack+Developer;IT+Support+Specialist;System+Administrator;Software+Engineer" />
 </p>
 
 > Money Money Money
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JungEiEi?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/JungEiEi/myprofile?style=flat&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/license/JungEiEi/myprofile" alt="License" />
+  <img src="https://img.shields.io/github/followers/JungEiEi?label=Followers&style=social&color=84A282" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/JungEiEi/myprofile?style=flat&label=Stars&color=F6E2E9" alt="Stars" />
+  <img src="https://img.shields.io/github/license/JungEiEi/myprofile?color=FEFAF3" alt="License" />
   <a href="https://github.com/JungEiEi" alt="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-JungEiEi-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-JungEiEi-84A282?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -37,10 +37,10 @@
 📞 +66946278508  
 📧 mayurin.jung21@gmail.com  
 
-[![Line](https://img.shields.io/badge/Line-babayjay1234-00C300?style=flat&logo=LINE&logoColor=white)](https://line.me/R/ti/p/~babayjay1234)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-babayjay1234-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/66946278508)
+[![Line](https://img.shields.io/badge/Line-babayjay1234-B8CFB3?style=flat&logo=LINE&logoColor=white)](https://line.me/R/ti/p/~babayjay1234)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-babayjay1234-84A282?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/66946278508)
 
-[![GitHub](https://img.shields.io/badge/GitHub-JungEiEi-181717?style=flat&logo=github&logoColor=white)](https://github.com/JungEiEi)
+[![GitHub](https://img.shields.io/badge/GitHub-JungEiEi-84A282?style=flat&logo=github&logoColor=white)](https://github.com/JungEiEi)
 
 🎯 Requirement: Pursue a master's degree, Need money
 
@@ -63,8 +63,7 @@ Computer Engineering graduate with experience in IT Support, IT Administration, 
    - Implemented booking calendars, customer management, quotation generation, and event order documentation.
    - Designed notification, booking approval, and customer feedback features.
 
-2. **Banquet Feedback & QR Code System**
-   - Developed a QR code-based feedback system for banquet guests and event organizers.
+2. **Banquet Feedback & QR Code System**n   - Developed a QR code-based feedback system for banquet guests and event organizers.
    - Integrated survey data with booking IDs, room details, and event dates.
    - Built a QR code and poster generation application using C# Windows Forms.
 
