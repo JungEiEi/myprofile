@@ -40,6 +40,8 @@
 [![Line](https://img.shields.io/badge/Line-babayjay1234-00C300?style=flat&logo=LINE&logoColor=white)](https://line.me/R/ti/p/~babayjay1234)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-babayjay1234-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/66946278508)
 
+[![GitHub](https://img.shields.io/badge/GitHub-JungEiEi-181717?style=flat&logo=github&logoColor=white)](https://github.com/JungEiEi)
+
 🎯 Requirement: Pursue a master's degree, Need money
 
 </div>
@@ -73,10 +75,9 @@ Computer Engineering graduate with experience in IT Support, IT Administration, 
    - Integrated survey data with booking IDs, room details, and event dates.
    - Built a QR code and poster generation application using C# Windows Forms.
 
-3. **Tennis Court Booking System**
-   - Developed a web application for managing and displaying tennis court reservations.
-   - Used React, Node.js, Express.js, and MongoDB.
-   - Implemented a booking calendar and reservation status display.
+3. **Tennis Court Booking System**n   - Developed a web application for managing and displaying tennis court reservations.
+    - Used React, Node.js, Express.js, and MongoDB.
+    - Implemented a booking calendar and reservation status display.
 
 4. **RFID Linen Tracking System**
    - Developed a prototype linen tracking application using RFID technology and C# Windows Forms.
